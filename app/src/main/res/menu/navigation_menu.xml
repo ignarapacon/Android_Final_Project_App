@@ -3,35 +3,42 @@
 
     <item android:id="@+id/nav_FirstAid"
         android:icon="@mipmap/aid"
+        android:iconTint="@color/colorPrimary"
         android:title="What is First Aid?" />
 
     <item android:id="@+id/nav_Injuries"
         android:icon="@mipmap/dri"
+        android:iconTint="@color/colorPrimary"
         android:title="Disaster Related Injuries" />
 
     <item android:id="@+id/nav_LiftsCarries"
         android:icon="@mipmap/lc"
+        android:iconTint="@color/colorPrimary"
         android:title="Lifts and Carries" />
 
     <item android:id="@+id/nav_Bandage"
         android:icon="@mipmap/bandage"
+        android:iconTint="@color/colorPrimary"
         android:title="Bandage Styles" />
 
     <item android:id="@+id/nav_CPR"
         android:icon="@mipmap/cpr"
+        android:iconTint="@color/colorPrimary"
         android:title="Perform CPR" />
 
     <item android:id="@+id/nav_HourKit"
         android:icon="@mipmap/kit"
+        android:iconTint="@color/colorPrimary"
         android:title="72 Hour Kit Contents" />
 
     <item android:id="@+id/nav_LocalNo"
         android:icon="@mipmap/no"
+        android:iconTint="@color/colorPrimary"
         android:title="Emergency Local Numbers" />
 
     <item android:id="@+id/nav_About"
         android:icon="@mipmap/about"
+        android:iconTint="@color/colorPrimary"
         android:title="About The App" />
-
 
 </menu>
